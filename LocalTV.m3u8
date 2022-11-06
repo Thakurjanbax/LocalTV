@@ -1,0 +1,59 @@
+***LOCAL 2***
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL 2", ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOCAL 2", INDOSIAR
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL 2", RCTI
+http://54.151.201.145:5566/GG/Live/RcTi/mpegts
+http://203.77.246.50:5000/udp/239.1.3.80:5000
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|User-Agent=android-R+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOCAL 2", MNCTV
+http://54.151.201.145:5566/GG/Live/MNCTV/mpegts
+http://iptvtree.net:8080/ace2524d/15a571c413/165054
+http://203.77.246.50:5000/udp/239.1.3.78:5000
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_96000=2-avc1_800000=6.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOCAL 2", GTV 
+http://54.151.201.145:5566/GG/Live/GtV/mpegts
+http://203.77.246.50:5000/udp/239.1.3.68:5000
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|User-Agent=android-R+
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_96000=2-avc1_800000=6.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15" group-title="LOCAL 2", SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="LOCAL 2", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://210.210.155.35/x6bnqe/s/s252/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="LOCAL 2", TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="LOCAL 2", NET HD
+http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="LOCAL 2", RTV
+http://rr1.dens.tv/h/h10/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOCAL 2", INEWS
+http://54.151.201.145:5566/GG/Live/INEWS/mpegts
+http://iptvtree.net:8080/ace2524d/15a571c413/157579
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-mp4a_96000=2-avc1_100000=8.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL 2", TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOCAL 2", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="LOCAL 2", KOMPAS TV
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="LOCAL 2", JTV
+http://rr3.dens.tv/s/s91/index.m3u8
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="LOCAL 2", NUSANTARA TV 
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" group-title="LOCAL 2",JAK TV
+http://rr3.dens.tv/s/s46/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13" group-title="LOCAL 2", TVRI
+http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_small1.png?v=2.0.0.13" group-title="LOCAL 2", BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="LOCAL 2", DAAI TV 
+http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="LOCAL 2", MYTV 
+http://rr3.dens.tv/s/s88/index2.m3u8
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="LOCAL 2", RODJA TV 
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
